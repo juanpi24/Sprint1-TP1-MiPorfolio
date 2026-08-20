@@ -35,4 +35,4 @@ El proyecto se encuentra desacoplado en componentes independientes dentro de `sr
 * Qué generé y qué corregí: Utilicé la IA para estructurar el archivo de datos inicial **`src/data/skills.js`**. Escribí a mano el código de cada componente en archivos **`.jsx`** separados para asegurar que las props se transmitan correctamente y que cada iteración cuente con su atributo **`key`** único.
 
 ## Lo que me costó
-* Adaptar la configuración de Tailwind CSS en **`src/index.css`** utilizando la directiva **`@theme`** para definir los colores globales del proyecto en un solo lugar.
+* Adaptar la configuración de Tailwind CSS en **`src/index.css`** utilizando la directiva **`@theme`** para definir los colores globales del proyecto en un solo lugar. Lo resolví consultando la documentación oficial de Tailwind v4.
